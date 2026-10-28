@@ -21,19 +21,20 @@ Good luck, and enjoy the semester!
 
 ### Course description
 
-This course introduces the principles of object-oriented design and programming: classes and objects, encapsulation, inheritance, polymorphism, and abstraction. Students learn to model real-world problems with objects, write clean and reusable code, and apply common design principles and patterns.
+This course introduces the principles of object-oriented design and programming using **Java**: classes and objects, encapsulation, inheritance, polymorphism, and abstraction. Students learn to model real-world problems with objects, write clean and reusable code, and apply common design principles and patterns.
 
 ### Learning outcomes
 
 By the end of the course, you should be able to:
 
 1. Explain the core concepts of OOP: encapsulation, inheritance, polymorphism, and abstraction.
-2. Design and implement classes with appropriate data members, methods, and constructors.
+2. Design and implement Java classes with appropriate fields, methods, and constructors.
 3. Build class hierarchies and use polymorphism to write flexible code.
-4. Use interfaces/abstract classes to separate _what_ code does from _how_ it does it.
-5. Handle errors with exceptions and manage resources correctly.
-6. Apply basic design principles (SOLID) and common design patterns.
-7. Read, test, and refactor object-oriented code.
+4. Use interfaces and abstract classes to separate _what_ code does from _how_ it does it.
+5. Implement `equals()`, `hashCode()`, and `Comparable` correctly, and work with the Java Collections Framework (`List`, `Set`, `Map`).
+6. Handle errors with exceptions.
+7. Apply basic design principles (SOLID) and common design patterns.
+8. Read, test, and refactor object-oriented code.
 
 ### Assessment
 
@@ -58,8 +59,6 @@ Practice tasks are in the [`tasks/`](tasks/) folder. New tasks will be added thr
 Do the tasks regularly. The best way to prepare for labs and exams is to write code yourself, not just read it.
 
 ---
-
-## Getting started
 
 1. Clone this repository:
    ```bash
